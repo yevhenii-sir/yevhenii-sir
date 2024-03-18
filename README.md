@@ -10,6 +10,6 @@
 - 🔭 I have non-commercial experience in writing desktop programs in C#.
 - 📫 You can contact me via e-mail.
 
-<p><img align="center" width = "320" src="https://www.codewars.com/users/yevhenii-sir/badges/large"></p>
+<p><a href="https://www.codewars.com/users/yevhenii-sir"><img align="center" width="320" src="https://www.codewars.com/users/yevhenii-sir/badges/large"></a></p>
 
 ###
